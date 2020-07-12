@@ -16,7 +16,7 @@ paginate = 3
         contentDir = "content"
         languageName = "English"
         languageCode = "en"
-        title = "Amperage theme!"
+        title = "shanodin"
         description = "This is an demo for the Amperage theme!"
         weight = 1
     [languages.es]
